@@ -33,3 +33,38 @@ Visualization Sections
 - Revenue by Month – Highlights monthly fluctuations and seasonal trends.
 - Top 5 Products by Revenue – Lists the best-selling products.
 - Top 10 Cities by Orders – Reveals high-performing cities contributing to revenue.
+
+❓ Project Questions / Objectives
+
+ 1. Total Revenue: Identify the overall revenue.
+ 2. Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
+ 3. Monthly Sales Performance: Examine how sales fluctuate across the months of 2023.
+ 4. Top Products by Revenue: Determine which products are the top revenue generators.
+ 5. Customer Spending Analysis: Understand how much customers are spending on average.
+ 6. Sales Performance by Top 5 Product: Track the sales performance of top 5 products.
+ 7. Top 10 Cities by Number of Orders: Find out which cities are placing the highest number of orders.
+ 8. Order Quantity vs. Delivery Time: Analyze if higher order quantities impact delivery times.
+ 9. Revenue Comparison Between Occasions: Compare revenue generated across different occasions.
+ 10. Product Popularity by Occasion: Identify which products are most popular during specific occasions.
+
+⚙️ Tools & Techniques Used
+
+- Microsoft Excel
+- PivotTables & PivotCharts
+- Data Cleaning & Formatting
+- Slicers and Timeline Filters for interactivity
+- Conditional Formatting
+- Dashboard Design Principles (color scheme, layout, typography)
+
+  🚀 Features
+  
+- Fully interactive dashboard with filters for Date, Delivery Period, and Occasion
+- Dynamic charts update automatically with data changes
+- Professionally formatted and color-coded visualization panels
+- Easy-to-use interface for business users and analysts
+
+📷 Dashboard Preview
+
+<img width="1692" height="784" alt="Dashboard" src="https://github.com/user-attachments/assets/985e28a7-33a0-4c51-b590-1e8fcbf5e4a5" />
+
+

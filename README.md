@@ -4,6 +4,7 @@
 
 The Ferns and Petals Sales Analysis Dashboard is an interactive Excel-based business intelligence project designed to analyze and visualize sales performance data of Ferns and Petals — a gifting and flower delivery company.This project demonstrates how Microsoft Excel can be used to extract actionable insights from raw transactional data by combining PivotTables, Charts, Slicers, and Timeline filters into a clean, dynamic, and user-friendly dashboard.The dashboard helps business stakeholders and analysts understand revenue trends, customer purchasing behavior, and product performance across multiple dimensions such as occasions, categories, time, and regions.
 
+
 🧾 Dataset Description
 
 The <a href="https://github.com/shubhamydv10/Ferns-and-Petals-Sales-Analysis-Dashboard---Excel-Project-/tree/main/Dataset">Dataset</a> used in this project contains transaction-level details of Ferns and Petals orders, including:
@@ -17,6 +18,7 @@ The <a href="https://github.com/shubhamydv10/Ferns-and-Petals-Sales-Analysis-Das
 
 The dataset was cleaned and structured before analysis to remove inconsistencies and enable accurate reporting.
 
+
 🧠 Key Insights Displayed
 
 - The <a href="https://github.com/shubhamydv10/Ferns-and-Petals-Sales-Analysis-Dashboard---Excel-Project-/blob/main/Dashboard.png">Dashboard</a> provides the  following visual summaries:
@@ -24,8 +26,9 @@ The dataset was cleaned and structured before analysis to remove inconsistencies
 - Total Revenue: ₹35,20,984.00
 - Average Customer Spend: ₹3,520.98
 - Average Order-Delivery Time: 5.53 days
+  
 
-Visualization Sections
+📈 Visualization Sections
 
 - Revenue by Occasion – Identifies which events drive the highest sales (e.g., Raksha Bandhan, Holi, Anniversary).
 - Revenue by Category – Shows category-level contributions such as Cakes, Flowers, Mugs, Sweets, etc.
@@ -33,6 +36,8 @@ Visualization Sections
 - Revenue by Month – Highlights monthly fluctuations and seasonal trends.
 - Top 5 Products by Revenue – Lists the best-selling products.
 - Top 10 Cities by Orders – Reveals high-performing cities contributing to revenue.
+
+  
 
 ❓ Project Questions / Objectives
 
@@ -47,6 +52,7 @@ Visualization Sections
  9. Revenue Comparison Between Occasions: Compare revenue generated across different occasions.
  10. Product Popularity by Occasion: Identify which products are most popular during specific occasions.
 
+
 ⚙️ Tools & Techniques Used
 
 - Microsoft Excel
@@ -56,12 +62,14 @@ Visualization Sections
 - Conditional Formatting
 - Dashboard Design Principles (color scheme, layout, typography)
 
-  🚀 Features
+
+🚀 Features
   
 - Fully interactive dashboard with filters for Date, Delivery Period, and Occasion
 - Dynamic charts update automatically with data changes
 - Professionally formatted and color-coded visualization panels
 - Easy-to-use interface for business users and analysts
+
 
 📷 Dashboard Preview
 
